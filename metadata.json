@@ -1,0 +1,6 @@
+{
+  "name": "Profile Frame Generator",
+  "description": "Upload your photo and seamlessly fit it behind transparent SVG event frame overlays with overflow hidden and precision controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
+}
